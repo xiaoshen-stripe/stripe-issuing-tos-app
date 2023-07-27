@@ -56,7 +56,7 @@ function App() {
         //   user_agent: sUsrAg,
         // },
         settings: {
-          card_issuing: {
+          treasury: {
             tos_acceptance: {
               date: acceptanceDate,
               ip: userIp,
